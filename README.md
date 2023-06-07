@@ -3,7 +3,7 @@
 <br><br>
 
 
-[![Jikkaeng's github stats](https://github-readme-stats.vercel.app/api?username=jikkaeng&show_icons=true)](https://github.com/jikkaeng) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jikkaeng&show_icons=true)](https://github.com/jikkaeng/github-readme-stats)
+[![Jikkaeng's github stats](https://github-readme-stats.vercel.app/api?username=jikkaeng&show_icons=true)](https://github.com/jikkaeng) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jikkaeng&langs_count=10&layout=compact)]()
 ## 🛠Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
